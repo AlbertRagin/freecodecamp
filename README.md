@@ -1,2 +1,2 @@
 # freecodecamp
-lessons from freecpde camp(Responsive Web Design)
+a tribute page of my hometown Leninogosk=)
